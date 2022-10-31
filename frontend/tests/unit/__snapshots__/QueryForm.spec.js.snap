@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`QueryForm.vue Asserts that instance matches the snapshot 1`] = `
+<div>
+  <div
+    class="container selection"
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="col-md-4 col-sm-6 col-xl-4 my-3"
+      >
+        <div
+          class="card d-block h-100 box-shadow-hover pointer"
+        >
+          <div
+            class="pt-3 h-75p align-items-center d-flex justify-content-center"
+          />
+           
+          <div
+            class="card-body p-4"
+          >
+            <h3
+              class="h4"
+            >
+              <strong
+                id="page-header"
+              >
+                String to sentences.
+              </strong>
+            </h3>
+          </div>
+        </div>
+      </div>
+      <div
+        class="col-md-4 col-sm-6 col-xl-4 my-3"
+      >
+        <div
+          class="card d-block h-100 box-shadow-hover pointer"
+        >
+          <div
+            class="pt-3 h-75p align-items-center d-flex justify-content-center"
+          />
+           
+          <div
+            class="card-body p-4"
+          >
+            <h3
+              class="h4"
+            >
+              <strong
+                id="page-header"
+              >
+                Compute sentence embeddings.
+              </strong>
+            </h3>
+          </div>
+        </div>
+      </div>
+      <div
+        class="col-md-4 col-sm-6 col-xl-4 my-3"
+      >
+        <div
+          class="card d-block h-100 box-shadow-hover pointer"
+        >
+          <div
+            class="pt-3 h-75p align-items-center d-flex justify-content-center"
+          />
+           
+          <div
+            class="card-body p-4"
+          >
+            <h3
+              class="h4"
+            >
+              <strong
+                id="page-header"
+              >
+                Semantic search.
+              </strong>
+            </h3>
+          </div>
+        </div>
+      </div>
+    </div>
+     
+    <!---->
+  </div>
+   
+  <!---->
+</div>
+`;
