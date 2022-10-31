@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+numpy
+nltk
+sentence_transformers
+typing
